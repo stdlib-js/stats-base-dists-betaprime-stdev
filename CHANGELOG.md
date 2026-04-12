@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`2105db7`](https://github.com/stdlib-js/stdlib/commit/2105db7b32c31c1cbfa38497f4403f4163950a25) - **refactor:** reuse variance in `stats/base/dists/betaprime/stdev` [(#11368)](https://github.com/stdlib-js/stdlib/pull/11368) _(by Om-A-osc)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Om-A-osc
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-05)
